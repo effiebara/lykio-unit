@@ -42,16 +42,16 @@ section .navigation li{
     background: #fff;
     padding: 3px 3px 0;
     opacity: 0.4;
-    /* transition: 0.8s; */
+    transition: 0.8s;
 }
-/* section .navigation li:hover{
+section .navigation li:hover{
     opacity: 1;
-} */
+}
 
 section .navigation li img{
     width: 60px;
-    /* transition: 0.8s; */
+    transition: 0.8s;
 }
-/* section .navigation li img:hover{
+section .navigation li img:hover{
     width: 120px;
-} */
+}
